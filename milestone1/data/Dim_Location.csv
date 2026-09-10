@@ -1,0 +1,11 @@
+LocationKey,Route_ID,City,Zone,Location,Latitude,Longitude,Population,Population_Density
+1,RT-101,Metro City,North Zone,North Terminal,13.0827,80.2707,280000,16500
+2,RT-102,Metro City,North Zone,North Tech Park,13.09,80.28,210000,14200
+3,RT-103,Metro City,East Zone,East Harbor Bay,13.05,80.29,340000,20200
+4,RT-104,Metro City,East Zone,Coastal Commercial,13.04,80.285,190000,11500
+5,RT-105,Metro City,Central Zone,Central Junction,13.06,80.25,320000,19800
+6,RT-106,Metro City,Central Zone,Financial Hub,13.065,80.245,260000,15400
+7,RT-107,Metro City,West Zone,West Industrial Park,13.07,80.2,150000,8200
+8,RT-108,Metro City,West Zone,West Residential Belt,13.055,80.19,230000,13100
+9,RT-109,Metro City,South Zone,South Suburban Hub,13.01,80.21,310000,18400
+10,RT-110,Metro City,South Zone,South Airport Link,12.99,80.17,120000,6800
